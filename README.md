@@ -14,6 +14,8 @@
 
 <p align="center">一个基于 React Native 开发的音乐软件</p>
 
+-官网：https://www.6yso.com/
+
 ## 说明
 
 所用技术栈：
